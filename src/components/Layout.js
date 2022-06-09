@@ -59,6 +59,7 @@ export default ({ children, meta, title }) => {
               {title}
               <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
               <link rel="dns-prefetch" href="https://ucarecdn.com" />
+              <script>UPLOADCARE_PUBLIC_KEY = '0830c7ba12145509840b';</script>
               {/* Add font link tags here */}
             </Helmet>
 
