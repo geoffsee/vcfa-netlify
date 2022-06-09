@@ -5,8 +5,8 @@ title: VCFA
 featuredImage: https://ucarecdn.com/6c11fae2-7b72-4c18-a232-e9f17421cd17/
 subtitle: VIRGINIA COASTAL FLY ANGLERS
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Virginia Coastal Fly Anglers
+  title: VCFA
 ---
 VCFA is a saltwater Fly Fishing Club in Hampton Roads Virginia.
 
